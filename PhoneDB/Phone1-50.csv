@@ -1,0 +1,4610 @@
+Number of Display Scales,Secondary Video Recording,Aux. Camera Image Sensor,Secondary Display Type,Wireless LAN,Wireless Charging,Platform,Added,Model,General Extras,Secondary Camera Number of pixels,Device Category,Camera Placement,RAM Type,Aux. Camera Extra Functions,Brand,Touchscreen Type,Aux. Camera Focus,Immersion into liquids time limit,Sec. Supported Cellular Data Links,CPU,Expansion Interfaces,Resolution,Pixel Density,Display Diagonal,Market Regions,Battery Cells in Parallel,Estimated Battery Life,Sec. Aux. Camera Number of Pixels,Graphical Controller,Secondary Camera Placement,Aux. 2 Camera Aperture (W),Depth,Operating System,Complementary Satellite Services,Secondary Display Refresh Rate,Scratch Resistant Screen,Secondary Camera Extra Functions,Zoom,Battery,USB,Market Countries,Audio Output,Sec. Supported Cellular Networks,Secondary Display Pixel Density (dot pitch),Display Type,A/V Out,Mobile Operator,Aux. 3 Camera Aperture (W),Aperture (W),Nominal Battery Energy,Manufacturer,Non-volatile Memory Capacity (converted),Horizontal Full Bezel Width,Number of effective pixels,Secondary Aperture (W),IR,RAM Capacity (converted),Aux. 2 Camera Number of Pixels,Nominal Battery Capacity,Released,Aux. 3 Camera Image Sensor,Camera Image Sensor,Aux. Camera Aperture (W),SAR (head),Hardware Designer,GPU Clock,Talk Time,Secondary Display Resolution,SIM Card Slot,Brief,Flash,Display Refresh Rate,Width,CPU Clock,Image Sensor Pixel Size,Microphone(s),Supported Cellular Data Links,2nd highest SAR (body),Supported BeiDou system (BDS),Secondary Camera Focus,Additional sensors,Video Recording,Supported GLONASS protocol(s),Aux. Camera Number of Pixels,FM Radio Receiver,Protection from solid materials,Bluetooth,Display Hole,Codename,Nominal Battery Voltage,Loudspeaker(s),Aux. Cam. Min. Equiv. Focal Length,Min. Equiv. Focal Length,Complementary Phone Services,Sec. SIM Card Slot,Aux. 2 Camera Image Sensor,Dual Cellular Network Operation,Aux. 2 Cam. Min. Equiv. Focal Length,Price,Sec. Aux. Cam. Image Sensor,Built-in gyroscope,Height,Camera Extra Functions,Immersion into liquids (depth limit),Secondary Display Diagonal,SAR (hotspot),Display Area Utilization,Supported Galileo service(s),Aux. 4 Camera Image Sensor,Aux. 3 Camera Number of Pixels,SAR (body),Aux. Cam. Image Sensor Pixel Size,Announced,Secondary Camera Sensor,Software Extras,Non-volatile Memory Interface,NFC,OEM ID,Protection from liquids,Focus,Built-in compass,Data Integrity,Supported Cellular Bands,Built-in accelerometer,2nd highest SAR (head),Mass
+1073.7M,3840x2160 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax","Qi
+, MagSafe",iOS / iPadOS,2023-11-27 22:20,iPhone 15 Pro Max 5G A3108 Dual SIM TD-LTE CN HK 256GB,"Haptic touch feedback
+, Tactile touch feedback",12.2 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Apple,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Apple A17 Pro APL1002 / APL1V02 (T8130), 2023, 64 bit, hexa-core, 128 Kbyte I-Cache, 64 Kbyte D-Cache, 20480 Kbyte L2, 24576 Kbyte L3, 3 nm, Apple A17 GPU",No,1290x2796,460 PPI,169.9 mm,"Asia
+, Southeast Asia",,,,Apple A17MP6,Front,f/2.80,8.25 mm,Apple iOS 17,"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",,Ceramic shield,"EIS
+, EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Smile detection
+, Face retouch",5.0 x optical zoom,Li-ion,USB 3.1 Gen 2 / 3.2 Gen 2x1,"China
+, HK",USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR1900 (N25)
+, NR850 (N26)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",,AM-OLED display,DisplayPort,,,f/1.78,17.11 Wh,Foxconn,256 GB ROM,5.52 mm,48.0 MP camera,f/1.90,,8 GiB RAM,12.0 MP aux. 2 cam,4422 mAh battery,2023 Sep 22,Mono CMOS,BSI CMOS,f/2.20,1.090 W/kg,Apple,,,,Nano-SIM (4FF),Released,nine LED flash,120 Hz,76.7 mm,3780 MHz,1.22 micrometer,3,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",0.980 W/kg,B1I BeiDou receiver,PD AF,"Barometer
+, L sensor
+, P sensor
+, Step counter
+, IR face sensor
+, LiDAR",3840x2160 pixel,L1OF,12.2 MP aux. cam,No,6 Totally protected from dust,Bluetooth 5.3,1-hole,"Apple iPhone 16,2",3.87 Volts,stereo,13 mm,24 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),BSI CMOS,Dual standby,120 mm,9999,Mono CMOS,3D gyro,159.9 mm,"EIS (video)
+, OIS
+, OIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",600 cm,,,89.5%,E1,No,,1.130 W/kg,1.40 micrometer,2023 Sep 12,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",Yes,"NFC A
+, NFC B",D84AP,8 Protected against immersion beyond 1m of depth,PD AF,3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR1900 (N25)
+, NR850 (N26)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,0.980 W/kg,221 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 18:20,Poco M6 Pro 5G Top Edition Dual SIM TD-LTE IN 256GB 23076PC4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,256 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,8 GiB RAM,,5000 mAh battery,2023 Nov,No,BSI CMOS,f/2.40,0.847 W/kg,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,17999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,0.687 W/kg,1.75 micrometer,2023 Sep,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,MZB0EQKIN,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 18:18,Poco M6 Pro 5G Premium Edition Dual SIM TD-LTE IN 128GB 23076PC4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,128 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,6 GiB RAM,,5000 mAh battery,2023 Aug,No,BSI CMOS,f/2.40,0.847 W/kg,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,16999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,0.687 W/kg,1.75 micrometer,2023 Aug 4,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,MZB0EQKIN,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 17:53,Poco M6 Pro 5G Standard Edition Dual SIM TD-LTE IN 64GB 23076PC4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,64 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,4 GiB RAM,,5000 mAh battery,2023 Aug,No,BSI CMOS,f/2.40,0.847 W/kg,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,14999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,0.687 W/kg,1.75 micrometer,2023 Aug 4,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 17:42,Redmi 12 5G XIG03 Standard Edition Dual SIM TD-LTE JP 128GB 23076RA4BR,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,10.3 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,Japan,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR1800 (N3)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,"KDDI Corporation
+ Rakuten Mobile
+ UQ Communications",,f/1.80,19.35 Wh,,128 GB ROM,6.66 mm,50.1 MP camera,f/2.20,Yes,4 GiB RAM,,5000 mAh battery,2023 Oct 6,No,BSI CMOS,f/2.40,1.515 W/kg,Xiaomi,955 MHz,,,e-SIM,Released,single LED,90 Hz,76 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,29800,No,Yes,169 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,85.3%,E1,No,,1.640 W/kg,1.75 micrometer,2023 Sep,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,"NFC A
+, NFC B",,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR1800 (N3)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78) bands",3D accelerometer,,200 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 17:34,Redmi 12 5G Top Edition Dual SIM TD-LTE IN 256GB 23076RN4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU",No,1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,256 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,8 GiB RAM,,5000 mAh battery,2023 Aug,No,BSI CMOS,f/2.40,,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,19999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,,1.75 micrometer,2023 Aug 2,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 17:33,Redmi 12 5G Premium Edition Dual SIM TD-LTE IN 128GB 23076RN4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,128 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,6 GiB RAM,,5000 mAh battery,2023 Aug,No,BSI CMOS,f/2.40,,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,17999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,,1.75 micrometer,2023 Aug 2,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 17:23,Redmi 12 5G Standard Edition Dual SIM TD-LTE IN 128GB 23076RN4BI,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,Asia,,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Gorilla Glass 3,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,128 GB ROM,8.94 mm,50.1 MP camera,f/2.05,Yes,4 GiB RAM,,5000 mAh battery,2023 Aug,No,BSI CMOS,f/2.40,,Xiaomi,955 MHz,,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky B,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,15999,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,,83.0%,E1,No,,,1.75 micrometer,2023 Aug 2,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,,,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2300 (N40)
+, TD-NR3500 (N78) bands",3D accelerometer,,199 g
+16.8M,1280x720 pixel,Mono CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 16:53,Redmi 12 5G Standard Edition Global Dual SIM TD-LTE 128GB 23076RN8DY,Haptic touch feedback,5.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500
+, NR 2600","Qualcomm Snapdragon 4 Gen 2 5G SM4450, 2023, 64 bit, octa-core, 4 nm, Qualcomm Adreno 613 GPU","TransFlash
+, microSD
+, microSDHC
+, microSDXC",1080x2460,396 PPI,172.5 mm,"Asia
+, Eastern Europe
+, Europe
+, Middle East 
+, Southeast Asia
+, Western Europe",,,,Qualcomm Adreno 613,Front,,8.17 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"HDR photo
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Belgium
+, Bulgaria
+, Croatia
+, Czech
+, Denmark
+, France
+, Germany
+, Hungary
+, Italy
+, Netherlands
+, Poland
+, Portugal
+, Romania
+, Saudi Arabia
+, Serbia
+, Slovakia
+, Slovenia
+, Spain
+, Thailand",3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)",,Color IPS TFT LCD display,No,,,f/1.80,19.35 Wh,,128 GB ROM,8.94 mm,50.1 MP camera,f/2.20,Yes,4 GiB RAM,,5000 mAh battery,2023 Jul,No,BSI CMOS,f/2.40,1.090 W/kg,Xiaomi,955 MHz,38.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,78.28 mm,2200 MHz,0.64 micrometer,mono,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, NR 1500
+, NR 2600 data links",0.999 W/kg,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,FM radio (76-108 MHz) with RDS,5 Protected against dust with limited ingress,Bluetooth 5.0,1-hole,Xiaomi Sky,3.87 Volts,mono,,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,249.9,No,Yes,168.6 mm,"Pixel unification
+, HDR photo
+, Red-eye reduction
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Intelligent scene detection",,,1.070 W/kg,83.0%,E1,No,,0.880 W/kg,1.75 micrometer,2023 Jul,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 2.2,"NFC A
+, NFC B",,3 Protection against direct sprays up to 60 degrees from the vertical,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78) bands",3D accelerometer,0.978 W/kg,199 g
+1073.7M,1920x1080 pixel,BSI CMOS,AM-OLED 2nd display,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax",Qi,Android,2023-11-27 16:03,Vivo X Flip 5G Dual SIM TD-LTE CN 256GB V2256A,"Haptic touch feedback
+, Foldable screen",32.0 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"EIS (video)
+, HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",BBK,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, GPRS C12
+, EDGE
+, EDGE MSC12
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1400/300
+, LTE 2000/300
+, NR 1500
+, NR 2600
+, NR 3700","Qualcomm Snapdragon 8+ Gen 1 5G SM8475 (Palima), 2022, 64 bit, octa-core, 6144 Kbyte L3, 4 nm, Qualcomm Adreno 730 GPU",No,1080x2520,407 PPI,171.2 mm,Asia,Yes,16.0 hours,,Qualcomm Adreno 730,Front,,8.19 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS",60 Hz,No,"HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion,USB 2.0,China,USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",267 PPI,AM-OLED display,No,,,f/1.75,17.20 Wh,BBK Electronics,256 GB ROM,7.81 mm,50.1 MP camera,f/2.45,,12 GiB RAM,,4400 mAh battery,2023 Apr,No,BSI CMOS,f/2.20,,BBK Electronics,875 MHz,14.6 hours,682x422,Nano-SIM (4FF),Released,dual LED,120 Hz,75.25 mm,3000 MHz,1.00 micrometer,3,"GPRS
+, GPRS C12
+, EDGE
+, EDGE MSC12
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1400/300
+, LTE 2000/300
+, NR 1500
+, NR 2600
+, NR 3700 data links",,"B1c
+, B1I
+, B2a BeiDou receiver",,"FP sensor
+, Hall
+, L sensor
+, P sensor",3840x2160 pixel,L1OF,12.0 MP aux. cam,No,Non-standard protection,Bluetooth 5.3,1-hole,BBK V2256A,3.91 Volts,mono,16 mm,23 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,5999,No,3D gyro,166.42 mm,"EIS (video)
+, OIS
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",150 cm,76.2 mm,,84.7%,"E1
+, E5a",No,,,1.22 micrometer,2023 Apr 28,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Virtual Reality (VR) support
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 3.1,"NFC A
+, NFC B",,8 Protected against immersion beyond 1m of depth,"PD AF
+, Laser AF",3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,,198 g
+1073.7M,1920x1080 pixel,BSI CMOS,AM-OLED 2nd display,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax",Qi,Android,2023-11-27 13:55,Vivo X Flip 5G Dual SIM TD-LTE CN 512GB V2256A,"Haptic touch feedback
+, Foldable screen",32.0 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"EIS (video)
+, HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",BBK,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, GPRS C12
+, EDGE
+, EDGE MSC12
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1400/300
+, LTE 2000/300
+, NR 1500
+, NR 2600
+, NR 3700","Qualcomm Snapdragon 8+ Gen 1 5G SM8475 (Palima), 2022, 64 bit, octa-core, 6144 Kbyte L3, 4 nm, Qualcomm Adreno 730 GPU",No,1080x2520,407 PPI,171.2 mm,Asia,Yes,16.0 hours,,Qualcomm Adreno 730,Front,,8.19 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS",60 Hz,No,"HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion,USB 2.0,China,USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",267 PPI,AM-OLED display,No,,,f/1.75,17.20 Wh,BBK Electronics,512 GB ROM,7.81 mm,50.1 MP camera,f/2.45,,12 GiB RAM,,4400 mAh battery,2023 Apr,No,BSI CMOS,f/2.20,,BBK Electronics,875 MHz,14.6 hours,682x422,Nano-SIM (4FF),Released,dual LED,120 Hz,75.25 mm,3000 MHz,1.00 micrometer,3,"GPRS
+, GPRS C12
+, EDGE
+, EDGE MSC12
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1400/300
+, LTE 2000/300
+, NR 1500
+, NR 2600
+, NR 3700 data links",,"B1c
+, B1I
+, B2a BeiDou receiver",,"FP sensor
+, Hall
+, L sensor
+, P sensor",3840x2160 pixel,L1OF,12.0 MP aux. cam,No,Non-standard protection,Bluetooth 5.3,1-hole,BBK V2256A,3.91 Volts,mono,16 mm,23 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),No,Dual standby,,6699,No,3D gyro,166.42 mm,"EIS (video)
+, OIS
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",150 cm,76.2 mm,,84.7%,"E1
+, E5a",No,,,1.22 micrometer,2023 Apr 28,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Virtual Reality (VR) support
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 3.1,"NFC A
+, NFC B",,8 Protected against immersion beyond 1m of depth,"PD AF
+, Laser AF",3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR700 (N28)
+, TD-NR2500 (N41)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,,198 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:41,Realme C55 2023 Premium Edition TD-LTE LATAM V3 256GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,,"MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,North America,,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,Mexico,3.5mm,No,,Color IPS TFT LCD display,No,TELCEL,f/2.40,,19.35 Wh,BBK Electronics,256 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,8 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",,No,,,6499,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B13)
+, LTE800 (B20)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, LTE1700/2100 (B66) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:38,Realme C55 2023 Base Edition Global Dual SIM TD-LTE V1 64GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,Asia,,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,,f/2.40,,19.35 Wh,BBK Electronics,64 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,4 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,10999,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:35,Realme C55 2023 Standard Edition Global Dual SIM TD-LTE V1 64GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,Asia,,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,India,3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,,f/2.40,,19.35 Wh,BBK Electronics,64 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,6 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,11999,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:30,Realme C55 2023 Standard Edition Global Dual SIM TD-LTE V1 128GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,"Africa
+, Asia
+, Eastern Europe
+, Europe
+, Middle East 
+, Oceania
+, Southeast Asia
+, Western Europe",,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS
+, QZSS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Bangladesh
+, Belarus
+, Bulgaria
+, Cambodia
+, Cyprus
+, Czech
+,  Egypt
+, France
+, Greece
+, Germany
+, Indonesia
+, Italy
+, Nepal
+, Philippines
+, Poland
+, Portugal
+, Russia
+, Romania
+, Slovakia
+, South Africa
+, Spain
+, Taiwan
+, UK
+, Ukraine
+, USA
+, Vietnam",3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,MTS Russia,f/2.40,,19.35 Wh,BBK Electronics,128 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,6 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,169.99,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:28,Realme C55 2023 Premium Edition Dual SIM TD-LTE MY TH V2 256GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,"Asia
+, Southeast Asia",,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Malaysia
+, Thailand",3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,,f/2.40,,19.35 Wh,BBK Electronics,256 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,8 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,7299,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 13:28,Realme C55 2023 Standard Edition Dual SIM TD-LTE MY TH V2 128GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,"Asia
+, Southeast Asia",,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Malaysia
+, Thailand",3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,,f/2.40,,19.35 Wh,BBK Electronics,128 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,6 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,6499,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, LTE700 (B28)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+16.8M,1920x1080 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-27 12:15,Realme C55 2023 Premium Edition Global Dual SIM TD-LTE V1 256GB RMX3710,Haptic touch feedback,8.0 MP sec. cam,Smartphone,Rear,LPDDR4x SDRAM,"HDR photo
+, Burst mode
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Oppo,Capacitive multi-touch screen,,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50","MediaTek Helio G88 MT6769H, 2021, 64 bit, octa-core, 12 nm, ARM Mali-G52 2EEMC2 GPU",No,1080x2400,392 PPI,170.7 mm,"Africa
+, Asia
+, Eastern Europe
+, Europe
+, Middle East 
+, Oceania
+, South America
+, Southeast Asia
+, Western Europe",,,,ARM Mali-G52MP2,Front,,7.89 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Geotagging
+, QuickGPS
+, QZSS",,Yes,"Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Bangladesh
+, Belarus
+, Bulgaria
+, Cambodia
+, Colombia
+, Cyprus
+, Czech
+,  Egypt
+, France
+, Germany
+, Greece
+, India
+, Indonesia
+, Italy
+, Nepal
+, Philippines
+, Poland
+, Portugal
+, Russia
+, Romania
+, Slovakia
+, South Africa
+, Spain
+, Taiwan
+, UK
+, Ukraine
+, USA
+, Vietnam",3.5mm,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)",,Color IPS TFT LCD display,No,MTS Russia,f/2.40,,19.35 Wh,BBK Electronics,256 GB ROM,5.85 mm,63.7 MP camera,f/2.00,,8 GiB RAM,,5000 mAh battery,2023 Mar,No,BSI CMOS,f/2.20,0.990 W/kg,Oppo,1000 MHz,36.0 hours,,Nano-SIM (4FF),Released,single LED,90 Hz,75.9 mm,2000 MHz,0.70 micrometer,mono,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50 data links",,B1I BeiDou receiver,,"FP sensor
+, L sensor
+, P sensor",1920x1080 pixel,L1OF,1.9 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,BBK R3710,3.87 Volts,mono,21.88 mm,25.6 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE",Nano-SIM (4FF),No,Dual standby,,17999,No,3D gyro,165.6 mm,"EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,,,86.8%,E1,No,1.9 MP aux. 3 cam,1.230 W/kg,1.75 micrometer,2023 Mar 7,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1800 (B3)
+, LTE850 (B5)
+, LTE900 (B8)
+, TD-LTE2600 (B38)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41) bands",3D accelerometer,,189.5 g
+1073.7M,3840x2160 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax","Qi
+, MagSafe",iOS / iPadOS,2023-11-24 20:56,iPhone 15 Pro UW 5G A2848 Dual SIM TD-LTE US 256GB,"Haptic touch feedback
+, Tactile touch feedback",12.2 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Apple,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Apple A17 Pro APL1002 / APL1V02 (T8130), 2023, 64 bit, hexa-core, 128 Kbyte I-Cache, 64 Kbyte D-Cache, 20480 Kbyte L2, 24576 Kbyte L3, 3 nm, Apple A17 GPU",No,1179x2556,460 PPI,155.5 mm,North America,,,,Apple A17MP6,Front,f/2.80,8.25 mm,Apple iOS 17,"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",,Ceramic shield,"EIS
+, EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Smile detection
+, Face retouch",3.0 x optical zoom,Li-ion,USB 3.1 Gen 2 / 3.2 Gen 2x1,USA,USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE700 (B29)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, LTE600 (B71)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR700 (N14)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR700 (N29)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR600 (N71)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)
+, TD-NR26G (N258)
+, TD-NR39G (N260)
+, TD-NR28G (N261)",,AM-OLED display,DisplayPort,"AT&T Mobility
+ Boost Mobile US
+ Cellular South / C Spire
+ Cricket Communications
+ MetroPCS Communications
+ Sprint Nextel Corporation
+ T-Mobile USA
+ United States Cellular Corporation
+ Verizon Wireless",,f/1.78,12.70 Wh,Foxconn,256 GB ROM,5.47 mm,48.0 MP camera,f/1.90,,8 GiB RAM,12.0 MP aux. 2 cam,3274 mAh battery,2023 Sep 22,Mono CMOS,BSI CMOS,f/2.20,1.140 W/kg,Apple,,,,e-SIM,Released,nine LED flash,120 Hz,70.6 mm,3780 MHz,1.22 micrometer,3,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",0.960 W/kg,B1I BeiDou receiver,PD AF,"Barometer
+, L sensor
+, P sensor
+, Step counter
+, IR face sensor
+, LiDAR",3840x2160 pixel,L1OF,12.2 MP aux. cam,No,6 Totally protected from dust,Bluetooth 5.3,1-hole,"Apple iPhone 16,1",3.88 Volts,stereo,13 mm,24 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",e-SIM,BSI CMOS,Dual standby,77 mm,1099,Mono CMOS,3D gyro,146.6 mm,"EIS (video)
+, OIS
+, OIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",600 cm,,,88.9%,E1,No,,1.160 W/kg,1.40 micrometer,2023 Sep 12,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",Yes,"NFC A
+, NFC B",D83AP,8 Protected against immersion beyond 1m of depth,PD AF,3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE700 (B29)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, LTE600 (B71)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR700 (N14)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR700 (N29)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR600 (N71)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)
+, TD-NR26G (N258)
+, TD-NR39G (N260)
+, TD-NR28G (N261) bands",3D accelerometer,0.980 W/kg,187 g
+1073.7M,3840x2160 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax","Qi
+, MagSafe",iOS / iPadOS,2023-11-24 20:24,iPhone 15 Pro Max UW 5G A2849 Dual SIM TD-LTE US 256GB,"Haptic touch feedback
+, Tactile touch feedback",12.2 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Apple,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Apple A17 Pro APL1002 / APL1V02 (T8130), 2023, 64 bit, hexa-core, 128 Kbyte I-Cache, 64 Kbyte D-Cache, 20480 Kbyte L2, 24576 Kbyte L3, 3 nm, Apple A17 GPU",No,1290x2796,460 PPI,169.9 mm,North America,,,,Apple A17MP6,Front,f/2.80,8.25 mm,Apple iOS 17,"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",,Ceramic shield,"EIS
+, EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Smile detection
+, Face retouch",5.0 x optical zoom,Li-ion,USB 3.1 Gen 2 / 3.2 Gen 2x1,USA,USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE700 (B29)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, LTE600 (B71)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR700 (N14)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR700 (N29)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR600 (N71)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)
+, TD-NR26G (N258)
+, TD-NR39G (N260)
+, TD-NR28G (N261)",,AM-OLED display,DisplayPort,"AT&T Mobility
+ Boost Mobile US
+ Cellular South / C Spire
+ Cricket Communications
+ MetroPCS Communications
+ Sprint Nextel Corporation
+ T-Mobile USA
+ United States Cellular Corporation
+ Verizon Wireless",,f/1.78,17.11 Wh,Foxconn,256 GB ROM,5.52 mm,48.0 MP camera,f/1.90,,8 GiB RAM,12.0 MP aux. 2 cam,4422 mAh battery,2023 Sep 22,Mono CMOS,BSI CMOS,f/2.20,1.070 W/kg,Apple,,,,e-SIM,Released,nine LED flash,120 Hz,76.7 mm,3780 MHz,1.22 micrometer,3,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",0.980 W/kg,B1I BeiDou receiver,PD AF,"Barometer
+, L sensor
+, P sensor
+, Step counter
+, IR face sensor
+, LiDAR",3840x2160 pixel,L1OF,12.2 MP aux. cam,No,6 Totally protected from dust,Bluetooth 5.3,1-hole,"Apple iPhone 16,2",3.87 Volts,stereo,13 mm,24 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",e-SIM,BSI CMOS,Dual standby,120 mm,1199,Mono CMOS,3D gyro,159.9 mm,"EIS (video)
+, OIS
+, OIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",600 cm,,,89.5%,E1,No,,1.110 W/kg,1.40 micrometer,2023 Sep 12,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",Yes,"NFC A
+, NFC B",D84AP,8 Protected against immersion beyond 1m of depth,PD AF,3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE700 (B29)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, LTE600 (B71)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR700 (N14)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR700 (N29)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR600 (N71)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)
+, TD-NR26G (N258)
+, TD-NR39G (N260)
+, TD-NR28G (N261) bands",3D accelerometer,0.980 W/kg,221 g
+1073.7M,3840x2160 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax","Qi
+, MagSafe",iOS / iPadOS,2023-11-24 20:11,iPhone 15 Pro 5G A3102 Global Dual SIM TD-LTE 256GB,"Haptic touch feedback
+, Tactile touch feedback",12.2 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Apple,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Apple A17 Pro APL1002 / APL1V02 (T8130), 2023, 64 bit, hexa-core, 128 Kbyte I-Cache, 64 Kbyte D-Cache, 20480 Kbyte L2, 24576 Kbyte L3, 3 nm, Apple A17 GPU",No,1179x2556,460 PPI,155.5 mm,"Africa
+, Asia
+, Australia
+, Central America
+, Eastern Europe
+, Europe
+, Middle East 
+, North America
+, Oceania
+, South America
+, Southeast Asia
+, Western Europe
+, Worldwide",,,,Apple A17MP6,Front,f/2.80,8.25 mm,Apple iOS 17,"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",,Ceramic shield,"EIS
+, EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Smile detection
+, Face retouch",3.0 x optical zoom,Li-ion,USB 3.1 Gen 2 / 3.2 Gen 2x1,"Algeria
+, Argentina
+, Australia
+, Austria
+, Bangladesh
+, Belgium
+, Bolivia
+, Brazil
+, Bulgaria
+, Cambodia
+, Chile
+, Colombia
+, Costa Rica
+, Croatia
+, Cyprus
+, Czech
+, Denmark
+, Ecuador
+,  Egypt
+, Estonia
+, Finland
+, France
+, Greece
+, Germany
+, HK
+, Honduras
+, Hungary
+, India
+, Indonesia
+, Ireland
+, Israel
+, Italy
+, Jordan
+, Kenya
+, Kuwait
+, Latvia
+, Lebanon
+, Lithuania
+, Malaysia
+, Mali
+, Morocco
+, Mongolia
+, Myanmar
+, Nepal
+, Netherlands
+, Nicaragua
+, Nigeria
+, Norway
+, NZ
+, Panama
+, Pakistan
+, Paraguay
+, Peru
+, Philippines
+, Poland
+, Portugal
+, Russia
+, Romania
+, Serbia
+, Slovakia
+, Singapore
+, Slovenia
+, South Africa
+, South Korea
+, Spain
+, Sri Lanka
+, Switzerland
+, Sweden
+, Taiwan
+, Tanzania
+, Tunisie
+, Thailand
+, Turkey
+, UAE
+, UK
+, Ukraine
+, Uzbekistan
+, Vietnam",USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",,AM-OLED display,DisplayPort,"A1 Belarus / velcom
+ A1 Bulgaria
+ A1 Slovenija
+ A1 Telekom Austria
+ A1 Vipnet
+ Asia Pacific Telecom
+ Base Belgium
+ Bharti Airtel Limited India
+ Bouygues Telecom
+ Cellcom Israel
+ Chunghwa Telecom 
+ DNA Oyj
+ EE Limited UK
+ Etisalat UAE
+ FarEasTone Telecommunications
+ Free Mobile FR
+ Hutchison Drei Austria
+ Hutchison Three UK
+ Kcell JSC
+ KPN Mobile
+ Manitoba Telecom Services
+ Movistar Chile
+ Movistar Peru
+ Movistar Spain
+ O2 Czech Republic
+ O2 Germany
+ O2 United Kingdom
+ Orange Belgium
+ Orange Egypt / Mobinil
+ Orange France
+ Orange Polska
+ Orange Romania
+ Orange Slovakia
+ Orange United Kingdom
+ Polkomtel Plus
+ Proximus Belgacom Mobile
+ Reliance Communications
+ S Mobility Limited 
+ Safaricom Limited
+ Salt Mobile SA / Orange CH
+ SFR
+ SingTel Optus Pty Limited
+ Sunrise Communications AG
+ Swisscom AG
+ T-Mobile Austria
+ T-Mobile Czech Republic
+ T-Mobile Nederland
+ T-Mobile Polska
+ Taiwan Mobile
+ Taiwan Star Telecom Corporation Limited
+ Telecom Italia
+ Telekom Croatia
+ Telekom Deutschland
+ Telekom Hungary
+ Telekom Romania
+ Telekom Slovakia
+ Telekom Slovenije
+ Telenor Bulgaria
+ Telenor Hungary / Yettel
+ Telenor Norway
+ Telia Finland
+ Telia Norway
+ Telstra Corporation Limited
+ Virgin Mobile United Kingdom
+ Vodafone Australia
+ Vodafone Czech Republic
+ Vodafone Germany
+ Vodafone Hungary
+ Vodafone India
+ Vodafone Italia
+ Vodafone Netherlands
+ Vodafone Portugal
+ Vodafone Romania
+ Vodafone Spain
+ Vodafone Turkey
+ Vodafone United Kingdom
+ WIND Hellas
+ Wind Tre Italia",,f/1.78,12.70 Wh,Foxconn,256 GB ROM,5.47 mm,48.0 MP camera,f/1.90,,8 GiB RAM,12.0 MP aux. 2 cam,3274 mAh battery,2023 Sep 22,Mono CMOS,BSI CMOS,f/2.20,1.100 W/kg,Apple,,,,"e-SIM
+, Nano-SIM (4FF)",Released,nine LED flash,120 Hz,70.6 mm,3780 MHz,1.22 micrometer,3,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",0.980 W/kg,B1I BeiDou receiver,PD AF,"Barometer
+, L sensor
+, P sensor
+, Step counter
+, IR face sensor
+, LiDAR",3840x2160 pixel,L1OF,12.2 MP aux. cam,No,6 Totally protected from dust,Bluetooth 5.3,1-hole,"Apple iPhone 16,1",3.88 Volts,stereo,13 mm,24 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",e-SIM,BSI CMOS,Dual standby,77 mm,1099,Mono CMOS,3D gyro,146.6 mm,"EIS (video)
+, OIS
+, OIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",600 cm,,,88.9%,E1,No,,1.170 W/kg,1.40 micrometer,2023 Sep 12,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",Yes,"NFC A
+, NFC B",D83AP,8 Protected against immersion beyond 1m of depth,PD AF,3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,0.980 W/kg,187 g
+1073.7M,3840x2160 pixel,BSI CMOS,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax","Qi
+, MagSafe",iOS / iPadOS,2023-11-24 18:58,iPhone 15 Pro Max 5G A3106 Global Dual SIM TD-LTE 256GB,"Haptic touch feedback
+, Tactile touch feedback",12.2 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Apple,Capacitive multi-touch screen,PD AF,30 min,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Apple A17 Pro APL1002 / APL1V02 (T8130), 2023, 64 bit, hexa-core, 128 Kbyte I-Cache, 64 Kbyte D-Cache, 20480 Kbyte L2, 24576 Kbyte L3, 3 nm, Apple A17 GPU",No,1290x2796,460 PPI,169.9 mm,"Africa
+, Asia
+, Australia
+, Central America
+, Eastern Europe
+, Europe
+, Middle East 
+, North America
+, Oceania
+, South America
+, Southeast Asia
+, Western Europe
+, Worldwide",,,,Apple A17MP6,Front,f/2.80,8.25 mm,Apple iOS 17,"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",,Ceramic shield,"EIS
+, EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Smile detection
+, Face retouch",5.0 x optical zoom,Li-ion,USB 3.1 Gen 2 / 3.2 Gen 2x1,"Algeria
+, Argentina
+, Australia
+, Austria
+, Bangladesh
+, Belgium
+, Bolivia
+, Brazil
+, Bulgaria
+, Cambodia
+, Chile
+, Colombia
+, Costa Rica
+, Croatia
+, Cyprus
+, Czech
+, Denmark
+, Ecuador
+,  Egypt
+, Estonia
+, Finland
+, France
+, Greece
+, Germany
+, HK
+, Honduras
+, Hungary
+, India
+, Indonesia
+, Ireland
+, Israel
+, Italy
+, Jordan
+, Kenya
+, Kuwait
+, Latvia
+, Lebanon
+, Lithuania
+, Malaysia
+, Mali
+, Morocco
+, Mongolia
+, Myanmar
+, Nepal
+, Netherlands
+, Nicaragua
+, Nigeria
+, Norway
+, NZ
+, Panama
+, Pakistan
+, Paraguay
+, Peru
+, Philippines
+, Poland
+, Portugal
+, Russia
+, Romania
+, Serbia
+, Slovakia
+, Singapore
+, Slovenia
+, South Africa
+, South Korea
+, Spain
+, Sri Lanka
+, Switzerland
+, Sweden
+, Taiwan
+, Tanzania
+, Tunisie
+, Thailand
+, Turkey
+, UAE
+, UK
+, Ukraine
+, Uzbekistan
+, Vietnam",USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",,AM-OLED display,DisplayPort,"A1 Belarus / velcom
+ A1 Bulgaria
+ A1 Slovenija
+ A1 Telekom Austria
+ A1 Vipnet
+ Asia Pacific Telecom
+ Base Belgium
+ Bharti Airtel Limited India
+ Bouygues Telecom
+ Cellcom Israel
+ Chunghwa Telecom 
+ DNA Oyj
+ EE Limited UK
+ Etisalat UAE
+ FarEasTone Telecommunications
+ Free Mobile FR
+ Hutchison Drei Austria
+ Hutchison Three UK
+ Kcell JSC
+ KPN Mobile
+ Manitoba Telecom Services
+ Movistar Chile
+ Movistar Peru
+ Movistar Spain
+ O2 Czech Republic
+ O2 Germany
+ O2 United Kingdom
+ Orange Belgium
+ Orange Egypt / Mobinil
+ Orange France
+ Orange Polska
+ Orange Romania
+ Orange Slovakia
+ Orange United Kingdom
+ Polkomtel Plus
+ Proximus Belgacom Mobile
+ Reliance Communications
+ S Mobility Limited 
+ Safaricom Limited
+ Salt Mobile SA / Orange CH
+ SFR
+ SingTel Optus Pty Limited
+ Sunrise Communications AG
+ Swisscom AG
+ T-Mobile Austria
+ T-Mobile Czech Republic
+ T-Mobile Nederland
+ T-Mobile Polska
+ Taiwan Mobile
+ Taiwan Star Telecom Corporation Limited
+ Telecom Italia
+ Telekom Croatia
+ Telekom Deutschland
+ Telekom Hungary
+ Telekom Romania
+ Telekom Slovakia
+ Telekom Slovenije
+ Telenor Bulgaria
+ Telenor Hungary / Yettel
+ Telenor Norway
+ Telia Finland
+ Telia Norway
+ Telstra Corporation Limited
+ Virgin Mobile United Kingdom
+ Vodafone Australia
+ Vodafone Czech Republic
+ Vodafone Germany
+ Vodafone Hungary
+ Vodafone India
+ Vodafone Italia
+ Vodafone Netherlands
+ Vodafone Portugal
+ Vodafone Romania
+ Vodafone Spain
+ Vodafone Turkey
+ Vodafone United Kingdom
+ WIND Hellas
+ Wind Tre Italia",,f/1.78,17.11 Wh,Foxconn,256 GB ROM,5.52 mm,48.0 MP camera,f/1.90,,8 GiB RAM,12.0 MP aux. 2 cam,4422 mAh battery,2023 Sep 22,Mono CMOS,BSI CMOS,f/2.20,1.090 W/kg,Apple,,,,"e-SIM
+, Nano-SIM (4FF)",Released,nine LED flash,120 Hz,76.7 mm,3780 MHz,1.22 micrometer,3,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, DC-HSDPA 42.2
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 300/75
+, LTE 400/150
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",0.980 W/kg,B1I BeiDou receiver,PD AF,"Barometer
+, L sensor
+, P sensor
+, Step counter
+, IR face sensor
+, LiDAR",3840x2160 pixel,L1OF,12.2 MP aux. cam,No,6 Totally protected from dust,Bluetooth 5.3,1-hole,"Apple iPhone 16,2",3.87 Volts,stereo,13 mm,24 mm,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",e-SIM,BSI CMOS,Dual standby,120 mm,1199,Mono CMOS,3D gyro,159.9 mm,"EIS (video)
+, OIS
+, OIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",600 cm,,,89.5%,E1,No,,1.130 W/kg,1.40 micrometer,2023 Sep 12,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",Yes,"NFC A
+, NFC B",D84AP,8 Protected against immersion beyond 1m of depth,PD AF,3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS900 (B8)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B13)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE2300 (B30)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, TD-LTE5900  (B46)
+, TD-LTE3600  (B48)
+, TD-LTE2400 (B53)
+, LTE1700/2100 (B66)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR850 (N26)
+, NR1900 (N25)
+, NR700 (N28)
+, NR2300 (N30)	
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3600 (N48)
+, NR2400 (N53)
+, NR1700/2100 (N66)
+, NR1700/2000 (N70)
+, NR1500 (N75)
+, NR1500 (N76)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,0.980 W/kg,221 g
+16.8M,1920x1080 pixel,BSI CMOS,AM-OLED 2nd display,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax
+, 802.11be","Qi
+, Qi reverse",Android,2023-11-22 10:29,Vivo X Fold2 5G 2023 Dual SIM TD-LTE CN 256GB V2266A,"Haptic touch feedback
+, Tactile touch feedback
+, Foldable screen",15.9 MP sec. cam,Smartphone,Rear,LPDDR5X SDRAM,"EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",BBK,Capacitive multi-touch screen,PD AF,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, LTE 1000/100
+, LTE 1200/200
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Qualcomm Snapdragon 8 Gen 2 5G SM8550-AB (Kalama), 2022, 64 bit, octa-core, 8192 Kbyte L3, 4 nm, Qualcomm Adreno 740 GPU",No,1080x2520,420 PPI,165.86 mm,"Asia
+, Southeast Asia",Yes,,15.9 MP sec. aux. camera,Qualcomm Adreno 740,Front,f/1.98,5.95 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS",120 Hz,Yes,"EIS
+, EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",2.0 x optical zoom,Li-ion,USB 3.0 / 3.1 Gen 1 / 3.2 Gen 1x1,"China
+, HK",USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)",360 PPI,AM-OLED display,DisplayPort,,,f/1.75,18.77 Wh,BBK Electronics,256 GB ROM,8.08 mm,50.1 MP camera,f/2.45,,12 GiB RAM,12.0 MP aux. 2 cam,4800 mAh battery,2023 Apr,No,BSI CMOS,f/2.00,,BBK Electronics,680 MHz,,2160x1916,Nano-SIM (4FF),Released,quad LED,120 Hz,73.42 mm,3187 MHz,1.00 micrometer,stereo,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, LTE 1000/100
+, LTE 1200/200
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",,"B1c
+, B1I
+, B2a
+, B2b BeiDou receiver",,"In-screen FP sensor
+, Hall
+, L sensor
+, P sensor
+, Step counter",7680x4320 pixel,"L1OF
+, L2OF",12.0 MP aux. cam,No,Yes,Bluetooth 5.3,1-hole,BBK V2266A,3.91 Volts,stereo,16 mm,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),BSI CMOS,Dual standby,47 mm,8999,BSI CMOS,3D gyro,161.29 mm,"EIS
+, EIS (video)
+, OIS
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,203.96 mm,,84.1%,"E1
+, E5a",No,,,1.22 micrometer,2023 Apr 20,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",UFS 4.0,"NFC A
+, NFC B",,Yes,"PD AF
+, Laser AF",3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78) bands",3D accelerometer,,279 g
+16.8M,1920x1080 pixel,BSI CMOS,AM-OLED 2nd display,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax
+, 802.11be","Qi
+, Qi reverse",Android,2023-11-22 10:05,Vivo X Fold2 5G 2023 Dual SIM TD-LTE CN 512GB V2266A,"Haptic touch feedback
+, Tactile touch feedback
+, Foldable screen",15.9 MP sec. cam,Smartphone,Rear,LPDDR5X SDRAM,"EIS (video)
+, HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",BBK,Capacitive multi-touch screen,PD AF,,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, LTE 1000/100
+, LTE 1200/200
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600","Qualcomm Snapdragon 8 Gen 2 5G SM8550-AB (Kalama), 2022, 64 bit, octa-core, 8192 Kbyte L3, 4 nm, Qualcomm Adreno 740 GPU",No,1080x2520,420 PPI,165.86 mm,"Asia
+, Southeast Asia",Yes,,15.9 MP sec. aux. camera,Qualcomm Adreno 740,Front,f/1.98,5.95 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS",120 Hz,Yes,"EIS
+, EIS (video)
+, Pixel unification
+, HDR photo
+, HDR video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",2.0 x optical zoom,Li-ion,USB 3.0 / 3.1 Gen 1 / 3.2 Gen 1x1,"China
+, HK",USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)",360 PPI,AM-OLED display,DisplayPort,,,f/1.75,18.77 Wh,BBK Electronics,512 GB ROM,8.08 mm,50.1 MP camera,f/2.45,,12 GiB RAM,12.0 MP aux. 2 cam,4800 mAh battery,2023 Apr,No,BSI CMOS,f/2.00,,BBK Electronics,680 MHz,,2160x1916,Nano-SIM (4FF),Released,quad LED,120 Hz,73.42 mm,3187 MHz,1.00 micrometer,stereo,"GPRS
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 300/50
+, LTE 600/50
+, LTE 1000/100
+, LTE 1200/200
+, NR 1500
+, NR 2600
+, NR 3700
+, NR 4600 data links",,"B1c
+, B1I
+, B2a
+, B2b BeiDou receiver",,"In-screen FP sensor
+, Hall
+, L sensor
+, P sensor
+, Step counter",7680x4320 pixel,"L1OF
+, L2OF",12.0 MP aux. cam,No,Yes,Bluetooth 5.3,1-hole,BBK V2266A,3.91 Volts,stereo,16 mm,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),BSI CMOS,Dual standby,47 mm,9999,BSI CMOS,3D gyro,161.29 mm,"EIS
+, EIS (video)
+, OIS
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,203.96 mm,,84.1%,"E1
+, E5a",No,,,1.22 micrometer,2023 Apr 20,BSI CMOS,"Voice Command
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Face Recognition",UFS 4.0,"NFC A
+, NFC B",,Yes,"PD AF
+, Laser AF",3D compass,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, CDMA1900 (BC1/BC14)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE1900 (B25)
+, LTE850 (B26)
+, LTE700 (B28)
+, LTE1500 (B32)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1900 (N2)
+, NR1800 (N3)
+, NR850 (N5)
+, NR2600 (N7)
+, NR900 (N8)
+, NR 700 (N12)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, NR1700/2100 (N66)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78) bands",3D accelerometer,,279 g
+1073.7M,1920x1080 pixel,BSI CMOS,AM-OLED 2nd display,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac
+, 802.11ax",,Android,2023-11-21 18:45,Mi Mix Fold 2 2022 5G Premium Edition Dual SIM TD-LTE CN 256GB 22061218C,"Haptic touch feedback
+, Tactile touch feedback",19.7 MP sec. cam,Smartphone,Rear,LPDDR5 SDRAM,"HDR photo
+, HDR video
+, Red-eye reduction
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",Xiaomi,Capacitive multi-touch screen,,,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 225/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700","Qualcomm Snapdragon 8+ Gen 1 5G SM8475 (Palima), 2022, 64 bit, octa-core, 6144 Kbyte L3, 4 nm, Qualcomm Adreno 730 GPU",No,1080x2520,418 PPI,166.6 mm,Asia,Yes,,,Qualcomm Adreno 730,Front,f/2.60,5.4 mm,Google Android 13 (Tiramisu),"Simultaneous GPS
+, A-GPS
+, Dual-frequency GPS
+, Geotagging
+, QuickGPS
+, QZSS
+, NavIC",120 Hz,Gorilla Glass Victus,"HDR photo
+, HDR video
+, Slow motion video
+, Burst mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",2.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,China,USB Type-C,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79)",360 PPI,AM-OLED display,No,,,f/1.80,17.42 Wh,Foxconn,256 GB ROM,8.27 mm,50.1 MP camera,f/2.40,Yes,12 GiB RAM,13.0 MP aux. 2 cam,4500 mAh battery,2022 Aug,No,BSI CMOS,f/2.40,,Xiaomi,875 MHz,,2160x1914,Nano-SIM (4FF),Released,triple LED,120 Hz,73.9 mm,3190 MHz,1.00 micrometer,stereo,"GPRS
+, GPRS MSC33
+, EDGE
+, UMTS
+, HSUPA
+, HSUPA 5.8
+, HSDPA
+, HSPA+ 21.1
+, HSPA+ 42.2
+, DC-HSDPA 42.2
+, cdmaOne
+, CDMA2000 1x
+, CDMA2000 1xEV-DO
+, CDMA2000 1xEV-DO Rev A
+, LTE
+, LTE 100/50
+, LTE 150/50
+, LTE 225/50
+, LTE 300/50
+, LTE 300/75
+, LTE 300/100
+, LTE 450/50
+, LTE 450/100
+, LTE 600/50
+, LTE 600/100
+, LTE 1000/100
+, LTE 1200/200
+, LTE 1600
+, NR 1500
+, NR 2600
+, NR 3700 data links",,"B1c
+, B1I
+, B2a BeiDou receiver",,"Altimeter
+, Barometer
+, FP sensor
+, Hall
+, L sensor
+, P sensor
+, Step counter",7680x4320 pixel,L1OF,8.0 MP aux. cam,No,Yes,Bluetooth 5.2,1-hole,Xiaomi Zizhan,3.87 Volts,stereo,15 mm,,"Voice transmission
+, Voice speaker
+, Vibrate
+, Speakerphone
+, ANC
+, HD Voice
+, VoLTE
+, ViLTE",Nano-SIM (4FF),BSI CMOS,Dual standby,45 mm,8999,No,3D gyro,161.6 mm,"EIS
+, EIS (video)
+, OIS
+, Pixel unification
+, HDR photo
+, HDR video
+, Red-eye reduction
+, Slow motion video
+, Burst mode
+, Refocus
+, Touch focus
+, Macro mode
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection
+, Face retouch
+, Face retouch (video)
+, Intelligent scene detection",,203.7 mm,,84.2%,"E1
+, E5a",No,,,1.12 micrometer,2022 Aug,BSI CMOS,"Voice Command
+, Business card recognition
+, Navigation software
+, Augmented Reality (AR)
+, Intelligent personal assistant
+, Voice Recognition
+, Face Recognition",UFS 3.1,"NFC A
+, NFC B",,Yes,PD AF,Yes,Final,"GSM850
+, GSM900
+, GSM1800
+, GSM1900
+, UMTS2100 (B1)
+, UMTS1900 (B2)
+, UMTS1700/2100 (B4)
+, UMTS850 (B5)
+, UMTS800 (B6)
+, UMTS900 (B8)
+, UMTS800 (B19)
+, CDMA800 (BC0)
+, LTE2100 (B1)
+, LTE1900 (B2)
+, LTE1800 (B3)
+, LTE1700/2100 (B4)
+, LTE850 (B5)
+, LTE2600 (B7)
+, LTE900 (B8)
+, LTE700 (B12)
+, LTE700 (B17)
+, LTE800 (B18)
+, LTE800 (B19)
+, LTE800 (B20)
+, LTE850 (B26)
+, LTE700 (B28)
+, TD-LTE2000 (B34)
+, TD-LTE2600 (B38)
+, TD-LTE1900 (B39)
+, TD-LTE2300 (B40)
+, TD-LTE2500 (B41)
+, TD-LTE3500 (B42)
+, NR2100 (N1)
+, NR1800 (N3)
+, NR850 (N5)
+, NR900 (N8)
+, NR800 (N20)
+, NR700 (N28)
+, TD-NR2600 (N38)
+, TD-NR2300 (N40)
+, TD-NR2500 (N41)
+, TD-NR3700 (N77)
+, TD-NR3500 (N78)
+, TD-NR4700 (N79) bands",3D accelerometer,,262 g
+16.8M,1920x1080 pixel,No,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-21 18:19,Redmi Pad SE 11-inch Standard Edition WiFi 128GB 23073RPBFL,"Haptic touch feedback
+, Active stylus",4.9 MP sec. cam,Tablet,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,,"Qualcomm Snapdragon 680 SM6225, 2021, 64 bit, octa-core, 6 nm, Qualcomm Adreno 610 GPU","TransFlash
+, microSD
+, microSDHC",1920x1200,206 PPI,279.4 mm,"North America
+, South America",Yes,,,Qualcomm Adreno 610,Front,,7.36 mm,Google Android 13 (Tiramisu),,,Yes,"Burst mode
+, Face detection
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Colombia
+, Mexico",3.5mm,No,,Color IPS TFT LCD display,No,,,f/2.00,,Xiaomi,128 GB ROM,18.6 mm,8.0 MP camera,f/2.00,,4 GiB RAM,,8000 mAh battery,2022 Sep,No,CMOS,,,Xiaomi,1115 MHz,,,,Released,No,90 Hz,255.53 mm,2400 MHz,1.12 micrometer,mono,,,,,"Hall
+, L sensor",1920x1080 pixel,,,No,Yes,Bluetooth 5.0,,Xiaomi Xun,,4,,,,,No,,,6499,No,,167.08 mm,"HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection",,,,82.2%,,No,,,,2022 Aug,BSI CMOS,"Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,CD AF,,Final,No,3D accelerometer,,478 g
+16.8M,1920x1080 pixel,No,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-21 18:17,Redmi Pad SE 11-inch Top Edition WiFi 128GB 23073RPBFG,"Haptic touch feedback
+, Active stylus",4.9 MP sec. cam,Tablet,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,,"Qualcomm Snapdragon 680 SM6225, 2021, 64 bit, octa-core, 6 nm, Qualcomm Adreno 610 GPU","TransFlash
+, microSD
+, microSDHC",1920x1200,206 PPI,279.4 mm,"Asia
+, Australia
+, Eastern Europe
+, Europe
+, Middle East 
+, Southeast Asia
+, Western Europe",Yes,,,Qualcomm Adreno 610,Front,,7.36 mm,Google Android 13 (Tiramisu),,,Yes,"Burst mode
+, Face detection
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Armenia
+, Australia
+, Austria
+, Belarus
+, Belgium
+, Bulgaria
+, Cyprus
+, Croatia
+, Czech
+, Denmark
+, Estonia
+, Finland
+, France
+, Greece
+, Germany
+, HK
+, Hungary
+, India
+, Indonesia
+, Ireland
+, Italy
+, Kazakhstan
+, Latvia
+, Lebanon
+, Lithuania
+, Malaysia
+, Mongolia
+, Netherlands
+, Norway
+, Poland
+, Portugal
+, Russia
+, Romania
+, Saudi Arabia
+, Serbia
+, Slovakia
+, Singapore
+, Slovenia
+, Spain
+, Sweden
+, Switzerland
+, Thailand
+, Turkey
+, UAE
+, UK
+, Ukraine
+, Vietnam",3.5mm,No,,Color IPS TFT LCD display,No,,,f/2.00,,Longcheer,128 GB ROM,18.6 mm,8.0 MP camera,f/2.00,,8 GiB RAM,,8000 mAh battery,2023 Sep,No,CMOS,,,Xiaomi,1115 MHz,,,,Released,No,90 Hz,255.53 mm,2400 MHz,1.12 micrometer,mono,,,,,"Hall
+, L sensor",1920x1080 pixel,,,No,Yes,Bluetooth 5.0,,Xiaomi Xun,,4,,,,,No,,,249,No,,167.08 mm,"HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection",,,,82.2%,,No,,,,2023 Aug,BSI CMOS,"Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,CD AF,,Final,No,3D accelerometer,,478 g
+16.8M,1920x1080 pixel,No,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-21 18:13,Redmi Pad SE 11-inch Standard Edition WiFi 128GB 23073RPBFC,"Haptic touch feedback
+, Active stylus",4.9 MP sec. cam,Tablet,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,,"Qualcomm Snapdragon 680 SM6225, 2021, 64 bit, octa-core, 6 nm, Qualcomm Adreno 610 GPU","TransFlash
+, microSD
+, microSDHC",1920x1200,206 PPI,279.4 mm,,Yes,,,Qualcomm Adreno 610,Front,,7.36 mm,Google Android 13 (Tiramisu),,,Yes,"Burst mode
+, Face detection
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,China,3.5mm,No,,Color IPS TFT LCD display,No,,,f/2.00,,Longcheer,128 GB ROM,18.6 mm,8.0 MP camera,f/2.00,,4 GiB RAM,,8000 mAh battery,2023 Aug,No,CMOS,,,Xiaomi,1115 MHz,,,,Released,No,90 Hz,255.53 mm,2400 MHz,1.12 micrometer,mono,,,,,"Hall
+, L sensor",1920x1080 pixel,,,No,Yes,Bluetooth 5.0,,Xiaomi Xun,,4,,,,,No,,,,No,,167.08 mm,"HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection",,,,82.2%,,No,,,,2023 Aug,BSI CMOS,"Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,CD AF,,Final,No,3D accelerometer,,478 g
+16.8M,1920x1080 pixel,No,,"802.11a
+, 802.11b
+, 802.11g
+, 802.11n
+, 802.11ac",,Android,2023-11-21 18:11,Redmi Pad SE 11-inch Top Edition WiFi 256GB 23073RPBFG,"Haptic touch feedback
+, Active stylus",4.9 MP sec. cam,Tablet,Rear,LPDDR4x SDRAM,,Xiaomi,Capacitive multi-touch screen,,,,"Qualcomm Snapdragon 680 SM6225, 2021, 64 bit, octa-core, 6 nm, Qualcomm Adreno 610 GPU","TransFlash
+, microSD
+, microSDHC",1920x1200,206 PPI,279.4 mm,"Asia
+, Australia
+, Eastern Europe
+, Europe
+, Middle East 
+, Southeast Asia
+, Western Europe",Yes,,,Qualcomm Adreno 610,Front,,7.36 mm,Google Android 13 (Tiramisu),,,Yes,"Burst mode
+, Face detection
+, Smile detection
+, Face retouch",1.0 x optical zoom,Li-ion polymer (LiPo),USB 2.0,"Armenia
+, Australia
+, Austria
+, Belarus
+, Belgium
+, Bulgaria
+, Cyprus
+, Croatia
+, Czech
+, Denmark
+, Estonia
+, Finland
+, France
+, Greece
+, Germany
+, HK
+, Hungary
+, India
+, Indonesia
+, Ireland
+, Italy
+, Kazakhstan
+, Latvia
+, Lebanon
+, Lithuania
+, Malaysia
+, Mongolia
+, Netherlands
+, Norway
+, Poland
+, Portugal
+, Russia
+, Romania
+, Saudi Arabia
+, Serbia
+, Slovakia
+, Singapore
+, Slovenia
+, Spain
+, Sweden
+, Switzerland
+, Thailand
+, Turkey
+, UAE
+, UK
+, Ukraine
+, Vietnam",3.5mm,No,,Color IPS TFT LCD display,No,,,f/2.00,,Longcheer,256 GB ROM,18.6 mm,8.0 MP camera,f/2.00,,8 GiB RAM,,8000 mAh battery,2023 Sep,No,CMOS,,,Xiaomi,1115 MHz,,,,Released,No,90 Hz,255.53 mm,2400 MHz,1.12 micrometer,mono,,,,,"Hall
+, L sensor",1920x1080 pixel,,,No,Yes,Bluetooth 5.0,,Xiaomi Xun,,4,,,,,No,,,299,No,,167.08 mm,"HDR photo
+, Burst mode
+, Touch focus
+, Panorama Photo
+, Face detection
+, Face tagging
+, Smile detection",,,,82.2%,,No,,,,2023 Aug,BSI CMOS,"Intelligent personal assistant
+, Face Recognition",eMMC 5.1,,,Yes,CD AF,,Final,No,3D accelerometer,,478 g

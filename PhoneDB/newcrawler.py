@@ -2,7 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import csv
 
-total_pages = 1
+total_pages = 200
 all_phones_info = []
 driver = webdriver.Chrome()
 
@@ -28,11 +28,19 @@ def crawl_data_from_url(url):
             if value_tag:
                 value_text = value_tag.text.strip()
                 attributes_values[attribute_text] = value_text
+    # Find the <td> tag containing <a id="datasheet_item_id499"></a>
+    target_a = soup.find('a', id='datasheet_item_id499')
 
+    # Extract the text content from the parent <td> tag
+    if target_a:
+        target_td = target_a.find_parent('td')
+        target_text = target_td.get_text(strip=True)
+        attributes_values["currency"]=target_text
     return attributes_values
 
+phone_urls = []
 base_url = "https://phonedb.net/index.php?m=device&s=list&filter={}"
-for page in range(1, total_pages + 1):
+for page in range(50, total_pages + 1):
     url = base_url.format(page)
     driver.get(url)
     driver.implicitly_wait(5)
@@ -40,7 +48,6 @@ for page in range(1, total_pages + 1):
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
 
-    phone_urls = []
     product_info_divs = soup.find_all("div", class_="content_block")
 
     for product_info in product_info_divs:
