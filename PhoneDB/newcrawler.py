@@ -38,7 +38,6 @@ def crawl_data_from_url(url):
         attributes_values["currency"]=target_text
     return attributes_values
 
-phone_urls = []
 base_url = "https://phonedb.net/index.php?m=device&s=list&filter={}"
 for page in range(50, total_pages + 1):
     url = base_url.format(page)
