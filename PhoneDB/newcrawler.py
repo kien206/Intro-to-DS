@@ -2,13 +2,13 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import csv
 
-total_pages = 200
+total_pages = 3625 + 29*100
 all_phones_info = []
 driver = webdriver.Chrome()
 
 def crawl_data_from_url(url):
     driver.get(url)
-    driver.implicitly_wait(5)
+    driver.implicitly_wait(1)
 
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
@@ -38,8 +38,13 @@ def crawl_data_from_url(url):
         attributes_values["currency"]=target_text
     return attributes_values
 
+
 base_url = "https://phonedb.net/index.php?m=device&s=list&filter={}"
-for page in range(50, total_pages + 1):
+batch = 290
+i = 0
+
+phone_urls = set()
+for page in range(3625 + 319, total_pages + 1,29):
     url = base_url.format(page)
     driver.get(url)
     driver.implicitly_wait(5)
@@ -55,14 +60,14 @@ for page in range(50, total_pages + 1):
             phone_link = pro_info.find("a")
             if phone_link:
                 phone_url = "https://phonedb.net/"+phone_link["href"]
-                phone_urls.append(phone_url)
+                phone_urls.add(phone_url)
+
 for phone_url in phone_urls:
     phone_info=crawl_data_from_url(phone_url)
     all_phones_info.append(phone_info)
 
-
 driver.quit()
-csv_filename = "PhoneDatabase.csv"
+csv_filename = "PhoneDatabase-{}.csv".format(total_pages)
 all_keys = set(key for phone_info in all_phones_info for key in phone_info)
 with open(csv_filename, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.DictWriter(csv_file, fieldnames=all_keys)
