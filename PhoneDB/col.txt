@@ -1,0 +1,31 @@
+Secondary Display Type  True/False
+Wireless Charging   True/False
+Platform    iOS/Android
+Device Category	Phone/Tablet
+Brand	Apple/Others
+Touchscreen	???
+CPU
+Number of effective pixels	X.X MP camera	
+Resolution	AxB
+Pixel Density	X PPI
+Market Regions	String
+Zoom	Ax
+Display Type
+Non-volatile Memory Capacity (converted)
+IR	True/No
+RAM Capacity
+Nominal Battery Capacity
+Released	YYYY MMM (DD)
+GPU Clock	????
+Display Refresh Rate
+CPU Clock
+Video Recording	AxB pixel
+Bluetooth	X.X
+Sec. SIM Card Slot	True/False
+Mass
+Depth
+Width
+Height
+Price
+Currency
+
